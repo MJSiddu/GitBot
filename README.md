@@ -4,8 +4,6 @@
 <img alt="logo" width="200" height="200" src="https://github.com/MJSiddu/GitBot/blob/master/images/logo.png">
 </p>
 
-https://github.com/MJSiddu/GitBot/blob/master/documents/bot.md
-
 ## Team Details:
 
 Name | Unity
