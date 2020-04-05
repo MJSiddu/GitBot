@@ -82,13 +82,13 @@ Use case: Automatically assign a priority level to the issue, such as requires i
 
 ### 1. Storyboards
 
-![Sb1](https://github.ncsu.edu/csc510-fall2019/CSC510-24/blob/master/images/Story%20Board%201.PNG)
+![Sb1](https://github.com/MJSiddu/GitBot/blob/master/images/Story%20Board%201.PNG)
 
-![Sb2](https://github.ncsu.edu/csc510-fall2019/CSC510-24/blob/master/images/Story%20Board%202.PNG)
+![Sb2](https://github.com/MJSiddu/GitBot/blob/master/images/Story%20Board%202.PNG)
 
-![Sb3](https://github.ncsu.edu/csc510-fall2019/CSC510-24/blob/master/images/Story%20Board%203.PNG)
+![Sb3](https://github.com/MJSiddu/GitBot/blob/master/images/Story%20Board%203.PNG)
 
-![Sb4](https://github.ncsu.edu/csc510-fall2019/CSC510-24/blob/master/images/Story%20Board%204.PNG)
+![Sb4](https://github.com/MJSiddu/GitBot/blob/master/images/Story%20Board%204.PNG)
 
 ### 2. Wireframes 
 
@@ -96,17 +96,17 @@ Our bot works in the background and creates labels/comments in github. Bot also 
 
  #### Email wireframe:
 
-![W1](https://github.ncsu.edu/csc510-fall2019/CSC510-24/blob/master/images/email%20wireframe.png)
+![W1](https://github.com/MJSiddu/GitBot/blob/master/images/email%20wireframe.png)
 
  #### Label wireframe:
 
-![W2](https://github.ncsu.edu/csc510-fall2019/CSC510-24/blob/master/images/label%20wireframe.PNG)
+![W2](https://github.com/MJSiddu/GitBot/blob/master/images/label%20wireframe.PNG)
 
 <br />
 
 ## Architecture Design and Design Patterns
 
-![Arch Dagram](https://github.ncsu.edu/csc510-fall2019/CSC510-24/blob/master/images/arch_diagram.png)
+![Arch Diagram](https://github.com/MJSiddu/GitBot/blob/master/images/arch_diagram.png)
 
 ### Components
 
@@ -124,7 +124,7 @@ Our bot works in the background and creates labels/comments in github. Bot also 
 This is an event-driven architecture as it consists of event producers that generate a stream of events and event consumers that listen for the events.
 
 <p align="center">
-<img alt="logo" src="https://github.ncsu.edu/csc510-fall2019/CSC510-24/blob/master/images/Event%20driven%20architecture.PNG">
+<img alt="logo" src="https://github.com/MJSiddu/GitBot/blob/master/images/Event%20driven%20architecture.PNG">
 </p>
 
 In our case, Events are triggered by Github, and the bot gets notified. Event handlers of our bot would consume these events as they occur and trigger some actions or perform necessary activities based on the event. Producers are decoupled from consumers and would go hand-in-hand with the observer pattern.
@@ -134,7 +134,7 @@ In our case, Events are triggered by Github, and the bot gets notified. Event ha
 The observer pattern is a software design pattern in which an object, called the subject (git repo in our case), maintains a list of its dependents, called observers (listeners for issues, PRs and comments in our case), and notifies them automatically of any state changes.
 
 <p align="center">
-<img alt="logo" src="https://github.ncsu.edu/csc510-fall2019/CSC510-24/blob/master/images/Observer%20pattern.png">
+<img alt="logo" src="https://github.com/MJSiddu/GitBot/blob/master/images/Observer%20pattern.png">
 </p>
 
 ### Observer pattern and Facade pattern in action:
@@ -142,5 +142,5 @@ The observer pattern is a software design pattern in which an object, called the
 Facade pattern hides the complexities of the system and provides an interface to the client using which the client can access the sub systems. In our system, thie dispatcher adds an interface to existing system to hide the complexities of its sub systems. Dispatcher is responsible for providing a single entry point with simplified methods required by clients, and delegates these calls to the respective handlers.
 
 <p align="center">
-<img alt="logo" src="https://github.ncsu.edu/csc510-fall2019/CSC510-24/blob/master/images/facade%20patter.jpg">
+<img alt="logo" src="https://github.com/MJSiddu/GitBot/blob/master/images/facade%20patter.jpg">
 </p>
