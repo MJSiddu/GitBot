@@ -116,7 +116,7 @@ Use case: Alert admins when a bug is detected and let them assign a priority to 
  - Find the repository, open the created branch, comment on the pull request and Validate the cooment is classified and posted on slack
        
 
-![Test Output](https://github.ncsu.edu/csc510-fall2019/CSC510-24/blob/master/images/tests.png)
+![Test Output](https://github.com/MJSiddu/GitBot/blob/master/images/tests.png)
 
 ## Screencast Video
 
