@@ -1,8 +1,10 @@
 # CSC510-24 Gitbot
 
 <p align="center">
-<img alt="logo" width="200" height="200" src="https://github.ncsu.edu/csc510-fall2019/CSC510-24/blob/master/images/logo.png">
+<img alt="logo" width="200" height="200" src="https://github.com/MJSiddu/GitBot/blob/master/images/logo.png">
 </p>
+
+https://github.com/MJSiddu/GitBot/blob/master/documents/bot.md
 
 ## Team Details:
 
@@ -17,13 +19,13 @@ Siddu Madhure Jayanna | smadhur
 
 Milestone | Document
 -------------- | ---------------
-Design | [design.md](https://github.ncsu.edu/csc510-fall2019/CSC510-24/blob/master/documents/design.md)
-Bot | [bot.md](https://github.ncsu.edu/csc510-fall2019/CSC510-24/blob/master/documents/bot.md)
-Process | [process.md](https://github.ncsu.edu/csc510-fall2019/CSC510-24/blob/master/documents/process.md)
-Deploy | [deploy.md](https://github.ncsu.edu/csc510-fall2019/CSC510-24/blob/master/documents/deploy.md)
+Design | [design.md](https://github.com/MJSiddu/GitBot/blob/master/documents/design.md)
+Bot | [bot.md](https://github.com/MJSiddu/GitBot/blob/master/documents/bot.md)
+Process | [process.md](https://github.com/MJSiddu/GitBot/blob/master/documents/process.md)
+Deploy | [deploy.md](https://github.com/MJSiddu/GitBot/blob/master/documents/deploy.md)
 
 ## Worksheet
-[Worksheet](https://github.ncsu.edu/csc510-fall2019/CSC510-24/blob/master/documents/worksheet.md)
+[Worksheet](https://github.com/MJSiddu/GitBot/blob/master/documents/worksheet.md)
 
 
 
