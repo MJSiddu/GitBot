@@ -85,33 +85,33 @@ The Sprint Review was equivalent to a user acceptance test where each team membe
 
 ## Meeting Notes:
 ### Scrum meeting on October 30:
-![](https://github.ncsu.edu/csc510-fall2019/CSC510-24/blob/master/images/MM1.PNG)
+![](https://github.com/MJSiddu/GitBot/blob/master/images/MM1.PNG)
 
 ### Scrum meeting on November 5:
-![](https://github.ncsu.edu/csc510-fall2019/CSC510-24/blob/master/images/MM2.PNG)
+![](https://github.com/MJSiddu/GitBot/blob/master/images/MM2.PNG)
 
 
 ## Iteration 1 (Wed Oct 23 -- Fri Nov 1)
 ### Start
-![](https://github.ncsu.edu/csc510-fall2019/CSC510-24/blob/master/images/Iteration-1-start.png)
+![](https://github.com/MJSiddu/GitBot/blob/master/images/Iteration-1-start.png)
 
 ### End
-![](https://github.ncsu.edu/csc510-fall2019/CSC510-24/blob/master/images/Iteration-1-end.png)
+![](https://github.com/MJSiddu/GitBot/blob/master/images/Iteration-1-end.png)
 
 
 ## Iteration 2 (Sat Nov 2 -- Fri Nov 8th)
 ### Start
-![](https://github.ncsu.edu/csc510-fall2019/CSC510-24/blob/master/images/Iteration-2-start.png)
+![](https://github.com/MJSiddu/GitBot/blob/master/images/Iteration-2-start.png)
 ### End
-![](https://github.ncsu.edu/csc510-fall2019/CSC510-24/blob/master/images/Iteration-2-end.png)
-![](https://github.ncsu.edu/csc510-fall2019/CSC510-24/blob/master/images/Iteration-2-end-2.png)
+![](https://github.com/MJSiddu/GitBot/blob/master/images/Iteration-2-end.png)
+![](https://github.com/MJSiddu/GitBot/blob/master/images/Iteration-2-end-2.png)
 
 
 ## Proofs for strategy
 
 ### Atleast 1 review per PR
-![](https://github.ncsu.edu/csc510-fall2019/CSC510-24/blob/master/images/approvals-1.png)
-![](https://github.ncsu.edu/csc510-fall2019/CSC510-24/blob/master/images/approvals-2.png)
+![](https://github.com/MJSiddu/GitBot/blob/master/images/approvals-1.png)
+![](https://github.com/MJSiddu/GitBot/blob/master/images/approvals-2.png)
 
 ### Scrum Masters
  Week 1 - Harsh & Siddu
